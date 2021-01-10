@@ -8,3 +8,7 @@ En este repositorio se encuentran alojadas las tareas para el curos de aprendiza
 
 Precedir el precio de venta de un conjunto de casas de acuerdo a sus caracteristicas. Corresponde con el problema [House Prices](https://www.kaggle.com/sohier/reading-the-data-with-python) de Kaggle. 
 
+### [Tarea 2 - Estimación Covid-19](https://github.com/cigarcial/ML2020/blob/master/Tarea1/Tarea1.ipynb)
+
+Estimar los paramétros del modelo SIR para el Covid-19.
+
