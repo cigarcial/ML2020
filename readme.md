@@ -12,3 +12,6 @@ Precedir el precio de venta de un conjunto de casas de acuerdo a sus caracterist
 
 Estimar los paramétros del modelo SIR para el Covid-19.
 
+### [Proyecto Final - Redes Neuronales](https://github.com/cigarcial/ML2020/blob/master/Final/Final.ipynb)
+
+Aplicaciones de las redes neuronales.
